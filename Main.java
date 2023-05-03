@@ -75,7 +75,7 @@ public class Main {
         }
         while (retorno == 1);
 
-        System.out.println("----- GRACIAS POR USAR NUESTRO SISTEMA-------");
+        System.out.println("----- GRACIAS POR USAR NUESTRO SISTEMA -------");
 
     }
 
@@ -92,7 +92,7 @@ public class Main {
     public static int menu(Scanner in){
         limpiarConsola();
         System.out.println("");
-        System.out.println(" ---- BIENVENIDO AL SISTEMA DE COMANDOS MILITAR -----");
+        System.out.println(" ---- BIENVENIDO AL SISTEMA EN CONSOLA PARA MILITAR -----");
         System.out.println("");
         System.out.println("---- MENU ------");
         System.out.println("--------------------------------------------");
