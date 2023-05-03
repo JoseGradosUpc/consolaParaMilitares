@@ -9,12 +9,12 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args)  {
 
-        String distritos[] = new String[43];    // en lima existen 43 distritos
+        String distritos[] = new String[43];    // en lima existen 43 distrito
         String horas[] = {"00:00 - 08:00 AM", "08:00 - 16:00 PM", "16:00 - 00:00 AM"};
 
         String militares[][] = new String[100][5];
 
-        // DATOS DE EJEMPLO
+        // DATOS DE EJEMPLO POR DEFAULT
         distritos[0] = "MIRAFLORES";
         distritos[1] = "SAN ISIDRO";
 
